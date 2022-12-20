@@ -1,0 +1,8 @@
+{
+	"name": "task",
+	"version": "0.0.1",
+	"author": "Smirnov I.A.",
+	"scripts": {
+		"start": "node test.js"
+	}
+}
